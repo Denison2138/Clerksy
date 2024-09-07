@@ -1,0 +1,179 @@
+*,
+*::after,
+*::before
+{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings: "width" 100;
+}
+
+.header{
+    height: 98px;
+    background-color: #163A24;
+}
+
+.conteiner{
+    margin: 0 auto;
+    display: flex;
+    padding: 20px 0 20px 0;
+    justify-content: space-between;
+    max-width: 1180px;
+}
+
+.header_buttons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 24px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.btn{
+    background-color: #198C36;
+    border-radius: 160px;
+    padding: 10px 30px 10px 30px;
+}
+
+.fon{
+    height: calc(100vh - 98px);
+    background-image: url("./fon.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.h1{
+    font-size: 48px;
+    font-weight: 900;
+    color: white;
+    padding-left: 130px;
+    padding-top: 120px;
+}
+
+.text{
+    font-size: 18px;
+    color: white;
+    padding-left: 130px ;
+}
+
+.fon2{
+    text-align: center;
+    text-align: left;
+}
+
+.pic1{
+    float: left;
+    margin-left: 228px;
+    background-attachment: fixed;
+}
+
+.h1_2{
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.text2{
+    font-size: 18px;
+}
+
+.fon3{
+    text-align: center;
+    text-align: left;
+}
+
+.pic2{
+    float: right;
+    margin-right: 228px;
+}
+
+.h1_3{
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.text3{
+    font-size: 18px;
+}
+
+.forpic1{
+    margin-left: 818px;
+    margin-bottom: 154px;
+    padding-top: 154px;
+}
+
+.forpic2{
+    padding-top: 111px;
+    padding-left: 228px;
+}
+
+.main1{
+    margin-bottom: 113px;
+}
+
+.partner{
+    margin-left: 130px;
+    margin-bottom: 120px;
+}
+
+.Frame{
+    width: 1520px;
+    height: 600px;
+    margin-bottom: 0px;
+}
+
+.Frame2{
+    width: 1550px;
+    height: 800px;
+}
+
+.end{
+    background-color: #F2EFE6;
+    width: 100%;
+    height: 775px;
+    margin-top: 0px;
+}
+
+.cheel{
+    text-align: center;
+    padding-top: 120px;
+}
+
+.end1{
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.end2{
+    font-size: 18px;
+}
+
+.frame1{
+    float: right;
+    align-items: center;
+    margin-right: 228px;
+    margin-top: 180px;
+    margin-bottom: 124px;
+}
+
+.realend1{
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.realend2{
+    font-size: 18px;
+}
+
+.realend{
+    text-align: left;
+    margin-top: 280px;
+    margin-left: 228px;
+}
+
+.Frame2{
+    text-align: center;
+}
